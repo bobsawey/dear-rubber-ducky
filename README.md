@@ -15,8 +15,8 @@ ipfs still has corruption issues
 
 still need to build a check in somehow that proves the file pushed onto the chain isn't corrupt the moment it is pushed
 
-** _that might be augmented with a crosschain solution where parity bits of the file are pushed as it is encoded
-yeah that actually makes all the sense_ **
+**_that might be augmented with a crosschain solution where parity bits of the file are pushed as it is encoded
+yeah that actually makes all the sense_**
 
 Thanks rubber ducky.
 
