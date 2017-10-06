@@ -1,4 +1,4 @@
-# dear-rubber-ducky
+# Dear Rubber Ducky,...
 Posting Some Ideas here like I am explaining things to my rubber duck. See https://en.wikipedia.org/wiki/Rubber_duck_debugging
 
 ![245098346_7b4853f811_o](https://user-images.githubusercontent.com/3117281/31297540-ee864efc-aaab-11e7-8f8d-f5c5696d7566.jpg)
